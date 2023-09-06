@@ -1,3 +1,4 @@
+package Array1D;
 // find the  number is palindromic or not
 //time complexity: O(n)
 //space complexity: O(1)
